@@ -1,7 +1,2 @@
-# Docker Multi Stage Build Example
+# Spring Boot App
 
-- Run:
-
-```
-docker build -t <IMAGE_NAME> .
-```
